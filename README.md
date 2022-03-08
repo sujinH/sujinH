@@ -1,4 +1,4 @@
-<div><h1? Hi, I’m sujin </h1></div>
+<div><h1> Hi, I’m sujin </h1></div>
 
 <div>
     <img 
@@ -9,16 +9,16 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
-## AlpoxDev : Service Programmer
+## Web Programmer
 
-어플리케이션부터 프론트엔드, 백엔드 모두 관심이 많으며 실 서비스를 만드는데 관심이 많은 프로그래머입니다. 
+
 
 ## Stack
 
-- React.js
-- Node.js
-- React-Native
-- Android-Studio
+- HTML / css
+- Java
+- Script
+
 
 <a href="https://instagram.com/alpox.dev">
     <img 
