@@ -1,4 +1,4 @@
-<div align=center><h1>👋 Hi, I’m @sujinH </h1></div>
+<div><h1>👋 Hi, I’m @sujinH </h1></div>
 
 <div>
     <img 
