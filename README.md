@@ -1,4 +1,4 @@
-<div><h1> Hi, I’m sujin </h1></div>
+<div><h1> Hi, I’m jin </h1></div>
 
 <div>
     <img 
