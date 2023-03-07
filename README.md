@@ -1,32 +1,25 @@
-<div><h1> Hi, I’m jin </h1></div>
+# Hi there, I'm jinH 👋
 
-<div>
-    <img 
-        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    <img 
-        src="https://img.shields.io/github/followers/AlpoxDev?label=AlpoxDev%20Followers&style=social"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</div>
+I'm a passionate web developer who loves creating beautiful and functional websites.
 
-## Web Programmer
+## 🔭 I’m currently working on...
+- Building a portfolio website
+- Developing a blog with React
 
+## 🌱 I’m currently learning...
+- React
+- GraphQL
+- TypeScript
 
+## 💬 Ask me about...
+- Front-end development
+- HTML, CSS, JavaScript
+- Responsive design
 
-## Stack
+## 📫 How to reach me...
+- [LinkedIn](https://www.linkedin.com/in/jinH)
+- [Email](mailto:jinh@example.com)
 
-- HTML / css
-- Java
-- Script
+## ⚡ Fun fact...
+I'm also a big fan of coffee and I roast my own beans at home!
 
-
-<a href="https://instagram.com/???">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/???/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://???">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://???"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
