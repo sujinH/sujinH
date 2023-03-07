@@ -14,8 +14,8 @@
 - HTML
 - CSS
 - JavaScript
-- React
-- Node.js
+- Vue
+- java
 
 ## 🚀 Currently working on
 - Building a personal website with lots of cute cat pictures
