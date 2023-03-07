@@ -1,32 +1,28 @@
-<div><h1> Hi, I’m jin </h1></div>
+<h1 align="center">👋 Hi there! I'm jinH</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jinH" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinH" alt="LinkedIn"></a>
+  <a href="mailto:jinh@example.com" target="_blank"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jinh@example.com" alt="Email"></a>
+</p>
 
-<div>
-    <img 
-        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    <img 
-        src="https://img.shields.io/github/followers/AlpoxDev?label=AlpoxDev%20Followers&style=social"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</div>
+<p align="center">I'm a web developer who loves creating cute and functional websites.</p>
 
-## Web Programmer
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HU8sL0vYDQ2Nsjm/giphy.gif" alt="Kitten coding" height="200px">
+</p>
 
+## 🌟 My skills
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
 
+## 🚀 Currently working on
+- Building a personal website with lots of cute cat pictures
+- Learning TypeScript
 
-## Stack
+## 🌈 Fun fact
+- I have three cats: Tofu, Mochi, and Sushi
+- I love collecting stickers and stationery
 
-- HTML / css
-- Java
-- Script
-
-
-<a href="https://instagram.com/???">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/???/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://???">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://???"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+<p align="center">Let's connect and build something cute together!</p>
